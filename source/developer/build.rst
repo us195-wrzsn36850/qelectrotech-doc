@@ -35,7 +35,7 @@ Native
         
 .. code-block:: bash
 
-    sudo apt install libqt5svg5-dev qt5-qmake qtbase5-dev libkf5widgetsaddons-dev libkf5coreaddons-dev libsqlite3-dev pkgconf
+    sudo apt install libqt5svg5-dev qt5-qmake qtbase5-dev qtbase5-private-dev libkf5widgetsaddons-dev libkf5coreaddons-dev libsqlite3-dev pkgconf
 
 
 Containerized
